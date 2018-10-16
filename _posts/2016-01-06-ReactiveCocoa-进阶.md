@@ -4,7 +4,7 @@ title:      5分钟带你看完 WWDC 2018
 subtitle:   WWDC 2018 Keynote 全记录
 date:       2018-06-05
 author:     BY
-header-img: https://up.enterdesk.com/edpic_source/3e/26/fe/3e26fe7e041f7671ddd15bbab8f7523d.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - iOS
