@@ -4,12 +4,13 @@ title:      5分钟带你看完 WWDC 2018
 subtitle:   WWDC 2018 Keynote 全记录
 date:       2018-06-05
 author:     BY
-header-img: https://up.enterdesk.com/edpic_source/3e/26/fe/3e26fe7e041f7671ddd15bbab8f7523d.jpg
+header-img: up.enterdesk.com/edpic_source/3e/26/fe/3e26fe7e041f7671ddd15bbab8f7523d.jpg
 catalog: true
 tags:
     - iOS
 ---
 **新闻频道来源：央视网 2018年10月16日 10:01**
+　　　　　　
 　　**央视网消息**：2018年9月份，全国居民消费价格同比上涨2.5%。其中，城市上涨2.4%，农村上涨2.5%；食品价格上涨3.6%，非食品价格上涨2.2%；消费品价格上涨2.7%，服务价格上涨2.1%。1-9月平均，全国居民消费价格比去年同期上涨2.1%。
 ![](http://p1.img.cctvpic.com/photoworkspace/contentimg/2018/10/16/2018101610000836229.png)
 　　9月份，全国居民消费价格环比上涨0.7%。其中，城市上涨0.7%，农村上涨0.8%；食品价格上涨2.4%，非食品价格上涨0.3%；消费品价格上涨1.0%，服务价格上涨0.2%。
